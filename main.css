@@ -103,22 +103,22 @@
     margin-top: 10px;
     margin-bottom: 10px;
 }
-#services .Flat-Flag{
+#services .images .Flat-Flag{
     display: inline-block;
     width: 13%;
     padding: 70px;
 }
-#services .cryon{
+#services .images .cryon{
     display: inline-block;
     width: 13%;
     padding: 70px;
 }
-#services .gears{
+#services .images .gears{
     display: inline-block;
     width: 13%;
     padding: 70px;
 }
-#services .rocket{
+#services .images .rocket{
     display: inline-block;
     width: 13%;
     padding: 70px;
@@ -144,19 +144,19 @@
     color: #3C4761;
     padding-top: 100px;
 }
-#team-section .benepix{
+#team-section .Ben-Silbermann{
     display: inline-block;
     width: 20%;
 }
-#team-section .emmapix{
+#team-section .mark-zuckerberg{
     display: inline-block;
     width: 20%;
 }
-#team-section .opepix{
+#team-section .Evan-Spiegel{
     display: inline-block;
     width: 20%;
 }
-#team-section .akapix{
+#team-section .Kevin-Systrom{
     display: inline-block;
     width: 20%;
 }
@@ -301,52 +301,52 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     width: 100px;
     border-radius: 50%;
 }
-#About-us .beneimg{
+#About-us .Ben-Silbermann{
     display: inline-block;
     width: 50%;
     padding-left: 100px;
     padding-top: 30px;
 }
-#About-us .beneimg p{
+#About-us .Ben-Silbermann p{
     display: inline-block;
     width: 50%;
     font-style: italic;
     padding-left: 62px;
     padding-bottom: 20px;
 }
-#About-us .emmaimg{
+#About-us .mark-zuckerberg{
     display: inline-block;
     width: 40%;
     padding-top: 30px;
 }
-#About-us .emmaimg p{
+#About-us .mark-zuckerberg p{
     display: inline-block;
     width: 50%;
     font-style: italic;
     padding-left: 62px;
     padding-bottom: 20px;
 }
-#About-us .akaimg{
+#About-us .Kevin-Systrom{
     display: inline-block;
     width: 40%;
     padding-left: 100px;
     padding-top: 70px;
     padding-bottom: 70px;
 }
-#About-us .akaimg p{
+#About-us .Kevin-Systrom p{
     display: inline-block;
     width: 50%;
     font-style: italic;
     padding-left: 62px;
     padding-bottom: 20px;
 }
-#About-us .opeimg{
+#About-us .Evan-Spiegel{
     display: inline-block;
     width: 40%;
     padding-left: 133px;
     padding-top: 70px;
 }
-#About-us .opeimg p{
+#About-us .Evan-Spiegel p{
     display: inline-block;
     width: 50%;
     font-style: italic;
